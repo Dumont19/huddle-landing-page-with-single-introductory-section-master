@@ -33,7 +33,7 @@ body {
 }
 
 header img {
-    width: 12.5rem;
+    width: 12.75rem;
     margin-bottom: 4.8rem ;
 }
 
@@ -67,7 +67,7 @@ header img {
     font-size: 1.2rem;
     background-color: var(--white);
     padding: 1.1rem 4rem;
-    margin-bottom: 8.2rem;
+    margin-bottom: 11.2rem;
     border-radius: 8rem;
     cursor: pointer;
     box-shadow: 5px 10px 8px  hsl(257, 40%, 25%, .45);
@@ -83,7 +83,7 @@ header img {
     position: absolute;
     display: flex;
     gap: 1rem;
-    left: 18rem;
+    left: 22.5rem;
     color: var(--white);
     cursor: pointer;
 }
@@ -109,7 +109,7 @@ header img {
         overflow: visible;
         background-image: url('../images/bg-mobile.svg');
         background-repeat: no-repeat;
-        background-size: 100vw;
+        background-size: 100% 100vmin;
     }
 
     .container {
@@ -170,7 +170,7 @@ header img {
         overflow: visible;
         background-image: url('../images/bg-mobile.svg');
         background-repeat: no-repeat;
-        background-size: 100vw;
+        background-size: 100% 100vmin;
     }
 
     .container {
