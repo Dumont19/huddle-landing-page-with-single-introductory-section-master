@@ -67,7 +67,7 @@ header img {
     font-size: 1.2rem;
     background-color: var(--white);
     padding: 1.1rem 4rem;
-    margin-bottom: 11.2rem;
+    margin-bottom: 9rem;
     border-radius: 8rem;
     cursor: pointer;
     box-shadow: 5px 10px 8px  hsl(257, 40%, 25%, .45);
@@ -83,7 +83,7 @@ header img {
     position: absolute;
     display: flex;
     gap: 1rem;
-    left: 22.5rem;
+    left: 23.5rem;
     color: var(--white);
     cursor: pointer;
 }
